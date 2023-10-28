@@ -1,0 +1,102 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Pong.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  evolution.cpp
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(25,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(26,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(27,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(28,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(31,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(56,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(57,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(58,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  smartBoids.cpp
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(43,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(44,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(45,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(46,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(49,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(77,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(78,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(80,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(81,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(82,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(25,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(26,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(27,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(28,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(31,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(56,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(57,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(58,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(56,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(59,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(111,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(119,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(128,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(147,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(147,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(190,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(192,65): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(192,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(207,5): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(259,21): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(258,21): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(316,25): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(315,25): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(323,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(322,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(334,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(333,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Pong.vcxproj -> C:\Users\jakey\Desktop\Programming stuff\SmartBoids\x64\Debug\smartBoids.exe

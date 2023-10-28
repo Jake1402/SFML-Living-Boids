@@ -1,0 +1,96 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Pong.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  smartBoids.cpp
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(86,21): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(149,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(150,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\evolution.h(151,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(44,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(45,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(47,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(48,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\boid.h(49,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(57,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(60,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(112,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(120,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(129,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(148,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(148,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(191,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(193,65): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(193,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(208,5): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(277,21): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(276,21): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(290,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(290,54): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(338,25): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(337,25): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(345,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(344,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(356,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\SmartBoids\Pong\smartBoids.cpp(355,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  1 of 488 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pong.vcxproj -> C:\Users\jakey\Desktop\Programming stuff\SmartBoids\x64\Release\smartBoids.exe
